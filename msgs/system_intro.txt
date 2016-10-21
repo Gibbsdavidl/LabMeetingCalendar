@@ -1,0 +1,13 @@
+Greetings,
+
+I am the Lab Meeting AI.
+
+I have been assigned to inform individuals of upcoming presentation dates.
+
+This will happen several times upto the date of presentation. The lab will 
+also get an email reminder, showing the next 3 presenters.
+
+I think we will become good friends.
+
+Yours,
+The Lab Meeting AI
