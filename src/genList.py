@@ -23,10 +23,12 @@ np.random.seed()
 for i in xrange(1,1733):
     emailPerm = np.random.permutation(en)
 
+years  =  [2016,2016] + [2016 for i in xrange(10)]
+months = [11,12,1,2,3,4,5,6,7,8,9,10,11,12]
+
 # for the rest of 2016 and 2017
-for yi in [2016,2017]:
-    # for each month
-    for mi in [11,12,1,2,3,4,5,6,7,8,9,10,11,12]:
+for yi in years:
+    for mi in months:
         for di in cal.itermonthdays2(2016, mi): # iterate over days, Sunday == 0, Thursday == 4
             if (di[1] == 3) and (di[0] != 0) and ((mi,di[0]) not in holidays):
                 p = emails[emailPerm[idx % en]].split(',')
