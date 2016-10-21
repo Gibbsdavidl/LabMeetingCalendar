@@ -1,0 +1,16 @@
+1,boris.aguilar@systemsbiology.org,Boris Aguilar
+2,nchambwe@systemsbiology.org,Nyasha Chambwe
+3,varsha.dhankani@systemsbiology.org,Varsha Dhankani
+4,david.gibbs@systemsbiology.org,David Gibbs
+5,theo.knijnenburg@systemsbiology.org,Theo Knijnenburg
+6,roger.kramer@systemsbiology.org,Roger Kramer
+7,phyliss.lee@systemsbiology.org,Phyliss Lee
+8,kalle.leinonen@systemsbiology.org,Kalle Leinonen
+9,william.longabaugh@systemsbiology.org,Bill Longabaugh
+10,michael.miller@systemsbiology.org,Michael Miller
+11,suzanne.paquette@systemsbiology.org,Suzanne Paquette
+12,sheila.reynolds@systemsbiology.org,Sheila Reynolds
+13,ilya.shmulevich@systemsbiology.org,Ilya Shmulevich
+14,joseph.slagel@systemsbiology.org,Joe Slagel
+15,thorsson@systemsbiology.org,Vesteinn Thorsson
+16,bill.clifford@systemsbiology.org,Bill Clifford
