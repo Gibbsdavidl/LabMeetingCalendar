@@ -12,7 +12,7 @@ import calendar
 cal = calendar.Calendar()
 
 # Email List #
-emails = open("/Users/davidgibbs/Data/emailsysdir/emailList.txt",'r').read().strip().split("\n")
+emails = open("dat/emailList.txt",'r').read().strip().split("\n")
 en = len(emails) # number of speakers
 idx = 0          # speaker index mod en
 
