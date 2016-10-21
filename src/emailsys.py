@@ -31,7 +31,7 @@ def sendEmail():
         #s = smtplib.SMTP('smtp.gmail.com',587)
         #s.ehlo()
         #s.starttls()
-        #s.login('drdavidgibbs@gmail.com', 'rombotmon.GM1')
+        #s.login('drdavidgibbs@gmail.com', mypass)
         #s.sendmail('dgibbs@systemsbiology.org', 'gibbsdavidl@gmail.com', msg.as_string())
         #s.close()
     return(0)
@@ -46,17 +46,17 @@ def sendUpdateEmail(day):
     s = smtplib.SMTP('smtp.gmail.com',587)
     s.ehlo()
     s.starttls()
-    s.login('drdavidlgibbs@gmail.com', 'rombotmon.GM1')
+    s.login('drdavidlgibbs@gmail.com', mypass)
     s.sendmail('drdavidgibbs@gmail.com', 'gibbsdavidl@gmail.com', msg.as_string())
     s.close()
     return(0)
 
 
 # Message Contents
-msgfile = "/Users/davidgibbs/Data/emailsysdir/system_intro.txt"
+msgfile = "msgs/system_intro.txt"
 
 # Email List
-emails = open("/Users/davidgibbs/Data/emailsysdir/email_list.txt",'r').read().strip().split("\n")
+emails = open("dat/emailList.txt",'r').read().strip().split("\n")
 
 # Only email once on thursdays.
 wednesdayFlag = 0
