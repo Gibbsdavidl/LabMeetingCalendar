@@ -1,122 +1,118 @@
-11	3	Suzanne Paquette	suzanne.paquette@systemsbiology.org
-11	10	Varsha Dhankani	varsha.dhankani@systemsbiology.org
-11	17	Michael Miller	michael.miller@systemsbiology.org
-11	24	Boris Aguilar	boris.aguilar@systemsbiology.org
-12	1	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
-12	8	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
-12	15	Bill Clifford	bill.clifford@systemsbiology.org
-12	22	Roger Kramer	roger.kramer@systemsbiology.org
-12	29	David Gibbs	david.gibbs@systemsbiology.org
-1	7	Joe Slagel	joseph.slagel@systemsbiology.org
-1	14	Vesteinn Thorsson	thorsson@systemsbiology.org
-1	21	Kalle Leinonen	kalle.leinonen@systemsbiology.org
-1	28	Nyasha Chambwe	nchambwe@systemsbiology.org
-2	4	Bill Longabaugh	william.longabaugh@systemsbiology.org
-2	11	Phyliss Lee	phyliss.lee@systemsbiology.org
-2	18	Sheila Reynolds	sheila.reynolds@systemsbiology.org
-2	25	Suzanne Paquette	suzanne.paquette@systemsbiology.org
-3	3	Varsha Dhankani	varsha.dhankani@systemsbiology.org
-3	10	Michael Miller	michael.miller@systemsbiology.org
-3	17	Boris Aguilar	boris.aguilar@systemsbiology.org
-3	24	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
-3	31	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
-4	7	Bill Clifford	bill.clifford@systemsbiology.org
-4	14	Roger Kramer	roger.kramer@systemsbiology.org
-4	21	David Gibbs	david.gibbs@systemsbiology.org
-4	28	Joe Slagel	joseph.slagel@systemsbiology.org
-5	5	Vesteinn Thorsson	thorsson@systemsbiology.org
-5	12	Kalle Leinonen	kalle.leinonen@systemsbiology.org
-5	19	Nyasha Chambwe	nchambwe@systemsbiology.org
-5	26	Bill Longabaugh	william.longabaugh@systemsbiology.org
-6	2	Phyliss Lee	phyliss.lee@systemsbiology.org
-6	9	Sheila Reynolds	sheila.reynolds@systemsbiology.org
-6	16	Suzanne Paquette	suzanne.paquette@systemsbiology.org
-6	23	Varsha Dhankani	varsha.dhankani@systemsbiology.org
-6	30	Michael Miller	michael.miller@systemsbiology.org
-7	7	Boris Aguilar	boris.aguilar@systemsbiology.org
-7	14	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
-7	21	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
-7	28	Bill Clifford	bill.clifford@systemsbiology.org
-8	4	Roger Kramer	roger.kramer@systemsbiology.org
-8	11	David Gibbs	david.gibbs@systemsbiology.org
-8	18	Joe Slagel	joseph.slagel@systemsbiology.org
-8	25	Vesteinn Thorsson	thorsson@systemsbiology.org
-9	1	Kalle Leinonen	kalle.leinonen@systemsbiology.org
-9	8	Nyasha Chambwe	nchambwe@systemsbiology.org
-9	15	Bill Longabaugh	william.longabaugh@systemsbiology.org
-9	22	Phyliss Lee	phyliss.lee@systemsbiology.org
-9	29	Sheila Reynolds	sheila.reynolds@systemsbiology.org
-10	6	Suzanne Paquette	suzanne.paquette@systemsbiology.org
-10	13	Varsha Dhankani	varsha.dhankani@systemsbiology.org
-10	20	Michael Miller	michael.miller@systemsbiology.org
-10	27	Boris Aguilar	boris.aguilar@systemsbiology.org
-11	3	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
-11	10	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
-11	17	Bill Clifford	bill.clifford@systemsbiology.org
-11	24	Roger Kramer	roger.kramer@systemsbiology.org
-12	1	David Gibbs	david.gibbs@systemsbiology.org
-12	8	Joe Slagel	joseph.slagel@systemsbiology.org
-12	15	Vesteinn Thorsson	thorsson@systemsbiology.org
-12	22	Kalle Leinonen	kalle.leinonen@systemsbiology.org
-12	29	Nyasha Chambwe	nchambwe@systemsbiology.org
-11	3	Bill Longabaugh	william.longabaugh@systemsbiology.org
-11	10	Phyliss Lee	phyliss.lee@systemsbiology.org
-11	17	Sheila Reynolds	sheila.reynolds@systemsbiology.org
-11	24	Suzanne Paquette	suzanne.paquette@systemsbiology.org
-12	1	Varsha Dhankani	varsha.dhankani@systemsbiology.org
-12	8	Michael Miller	michael.miller@systemsbiology.org
-12	15	Boris Aguilar	boris.aguilar@systemsbiology.org
-12	22	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
-12	29	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
-1	7	Bill Clifford	bill.clifford@systemsbiology.org
-1	14	Roger Kramer	roger.kramer@systemsbiology.org
-1	21	David Gibbs	david.gibbs@systemsbiology.org
-1	28	Joe Slagel	joseph.slagel@systemsbiology.org
-2	4	Vesteinn Thorsson	thorsson@systemsbiology.org
-2	11	Kalle Leinonen	kalle.leinonen@systemsbiology.org
-2	18	Nyasha Chambwe	nchambwe@systemsbiology.org
-2	25	Bill Longabaugh	william.longabaugh@systemsbiology.org
-3	3	Phyliss Lee	phyliss.lee@systemsbiology.org
-3	10	Sheila Reynolds	sheila.reynolds@systemsbiology.org
-3	17	Suzanne Paquette	suzanne.paquette@systemsbiology.org
-3	24	Varsha Dhankani	varsha.dhankani@systemsbiology.org
-3	31	Michael Miller	michael.miller@systemsbiology.org
-4	7	Boris Aguilar	boris.aguilar@systemsbiology.org
-4	14	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
-4	21	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
-4	28	Bill Clifford	bill.clifford@systemsbiology.org
-5	5	Roger Kramer	roger.kramer@systemsbiology.org
-5	12	David Gibbs	david.gibbs@systemsbiology.org
-5	19	Joe Slagel	joseph.slagel@systemsbiology.org
-5	26	Vesteinn Thorsson	thorsson@systemsbiology.org
-6	2	Kalle Leinonen	kalle.leinonen@systemsbiology.org
-6	9	Nyasha Chambwe	nchambwe@systemsbiology.org
-6	16	Bill Longabaugh	william.longabaugh@systemsbiology.org
-6	23	Phyliss Lee	phyliss.lee@systemsbiology.org
-6	30	Sheila Reynolds	sheila.reynolds@systemsbiology.org
-7	7	Suzanne Paquette	suzanne.paquette@systemsbiology.org
-7	14	Varsha Dhankani	varsha.dhankani@systemsbiology.org
-7	21	Michael Miller	michael.miller@systemsbiology.org
-7	28	Boris Aguilar	boris.aguilar@systemsbiology.org
-8	4	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
-8	11	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
-8	18	Bill Clifford	bill.clifford@systemsbiology.org
-8	25	Roger Kramer	roger.kramer@systemsbiology.org
-9	1	David Gibbs	david.gibbs@systemsbiology.org
-9	8	Joe Slagel	joseph.slagel@systemsbiology.org
-9	15	Vesteinn Thorsson	thorsson@systemsbiology.org
-9	22	Kalle Leinonen	kalle.leinonen@systemsbiology.org
-9	29	Nyasha Chambwe	nchambwe@systemsbiology.org
-10	6	Bill Longabaugh	william.longabaugh@systemsbiology.org
-10	13	Phyliss Lee	phyliss.lee@systemsbiology.org
-10	20	Sheila Reynolds	sheila.reynolds@systemsbiology.org
-10	27	Suzanne Paquette	suzanne.paquette@systemsbiology.org
-11	3	Varsha Dhankani	varsha.dhankani@systemsbiology.org
-11	10	Michael Miller	michael.miller@systemsbiology.org
-11	17	Boris Aguilar	boris.aguilar@systemsbiology.org
-11	24	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
-12	1	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
-12	8	Bill Clifford	bill.clifford@systemsbiology.org
-12	15	Roger Kramer	roger.kramer@systemsbiology.org
-12	22	David Gibbs	david.gibbs@systemsbiology.org
-12	29	Joe Slagel	joseph.slagel@systemsbiology.org
+2016	11	3	Varsha Dhankani	varsha.dhankani@systemsbiology.org
+2016	11	10	Phyliss Lee	phyliss.lee@systemsbiology.org
+2016	11	17	Boris Aguilar	boris.aguilar@systemsbiology.org
+2016	12	1	Sheila Reynolds	sheila.reynolds@systemsbiology.org
+2016	12	8	David Gibbs	david.gibbs@systemsbiology.org
+2016	12	15	Vesteinn Thorsson	thorsson@systemsbiology.org
+2016	12	22	Suzanne Paquette	suzanne.paquette@systemsbiology.org
+2016	12	29	Bill Clifford	bill.clifford@systemsbiology.org
+2016	1	7	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
+2016	1	14	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
+2016	1	21	Michael Miller	michael.miller@systemsbiology.org
+2016	1	28	Kalle Leinonen	kalle.leinonen@systemsbiology.org
+2016	2	4	Roger Kramer	roger.kramer@systemsbiology.org
+2016	2	11	Nyasha Chambwe	nchambwe@systemsbiology.org
+2016	2	18	Joe Slagel	joseph.slagel@systemsbiology.org
+2016	2	25	Bill Longabaugh	william.longabaugh@systemsbiology.org
+2016	3	3	Varsha Dhankani	varsha.dhankani@systemsbiology.org
+2016	3	10	Phyliss Lee	phyliss.lee@systemsbiology.org
+2016	3	17	Boris Aguilar	boris.aguilar@systemsbiology.org
+2016	3	24	Sheila Reynolds	sheila.reynolds@systemsbiology.org
+2016	3	31	David Gibbs	david.gibbs@systemsbiology.org
+2016	4	7	Vesteinn Thorsson	thorsson@systemsbiology.org
+2016	4	14	Suzanne Paquette	suzanne.paquette@systemsbiology.org
+2016	4	21	Bill Clifford	bill.clifford@systemsbiology.org
+2016	4	28	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
+2016	5	5	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
+2016	5	12	Michael Miller	michael.miller@systemsbiology.org
+2016	5	19	Kalle Leinonen	kalle.leinonen@systemsbiology.org
+2016	5	26	Roger Kramer	roger.kramer@systemsbiology.org
+2016	6	2	Nyasha Chambwe	nchambwe@systemsbiology.org
+2016	6	9	Joe Slagel	joseph.slagel@systemsbiology.org
+2016	6	16	Bill Longabaugh	william.longabaugh@systemsbiology.org
+2016	6	23	Varsha Dhankani	varsha.dhankani@systemsbiology.org
+2016	6	30	Phyliss Lee	phyliss.lee@systemsbiology.org
+2016	7	7	Boris Aguilar	boris.aguilar@systemsbiology.org
+2016	7	14	Sheila Reynolds	sheila.reynolds@systemsbiology.org
+2016	7	21	David Gibbs	david.gibbs@systemsbiology.org
+2016	7	28	Vesteinn Thorsson	thorsson@systemsbiology.org
+2016	8	4	Suzanne Paquette	suzanne.paquette@systemsbiology.org
+2016	8	11	Bill Clifford	bill.clifford@systemsbiology.org
+2016	8	18	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
+2016	8	25	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
+2016	9	1	Michael Miller	michael.miller@systemsbiology.org
+2016	9	8	Kalle Leinonen	kalle.leinonen@systemsbiology.org
+2016	9	15	Roger Kramer	roger.kramer@systemsbiology.org
+2016	9	22	Nyasha Chambwe	nchambwe@systemsbiology.org
+2016	9	29	Joe Slagel	joseph.slagel@systemsbiology.org
+2016	10	6	Bill Longabaugh	william.longabaugh@systemsbiology.org
+2016	10	13	Varsha Dhankani	varsha.dhankani@systemsbiology.org
+2016	10	20	Phyliss Lee	phyliss.lee@systemsbiology.org
+2016	10	27	Boris Aguilar	boris.aguilar@systemsbiology.org
+2016	11	3	Sheila Reynolds	sheila.reynolds@systemsbiology.org
+2016	11	10	David Gibbs	david.gibbs@systemsbiology.org
+2016	11	17	Vesteinn Thorsson	thorsson@systemsbiology.org
+2016	12	1	Suzanne Paquette	suzanne.paquette@systemsbiology.org
+2016	12	8	Bill Clifford	bill.clifford@systemsbiology.org
+2016	12	15	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
+2016	12	22	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
+2016	12	29	Michael Miller	michael.miller@systemsbiology.org
+2017	11	3	Kalle Leinonen	kalle.leinonen@systemsbiology.org
+2017	11	10	Roger Kramer	roger.kramer@systemsbiology.org
+2017	11	17	Nyasha Chambwe	nchambwe@systemsbiology.org
+2017	12	1	Joe Slagel	joseph.slagel@systemsbiology.org
+2017	12	8	Bill Longabaugh	william.longabaugh@systemsbiology.org
+2017	12	15	Varsha Dhankani	varsha.dhankani@systemsbiology.org
+2017	12	22	Phyliss Lee	phyliss.lee@systemsbiology.org
+2017	12	29	Boris Aguilar	boris.aguilar@systemsbiology.org
+2017	1	7	Sheila Reynolds	sheila.reynolds@systemsbiology.org
+2017	1	14	David Gibbs	david.gibbs@systemsbiology.org
+2017	1	21	Vesteinn Thorsson	thorsson@systemsbiology.org
+2017	1	28	Suzanne Paquette	suzanne.paquette@systemsbiology.org
+2017	2	4	Bill Clifford	bill.clifford@systemsbiology.org
+2017	2	11	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
+2017	2	18	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
+2017	2	25	Michael Miller	michael.miller@systemsbiology.org
+2017	3	3	Kalle Leinonen	kalle.leinonen@systemsbiology.org
+2017	3	10	Roger Kramer	roger.kramer@systemsbiology.org
+2017	3	17	Nyasha Chambwe	nchambwe@systemsbiology.org
+2017	3	24	Joe Slagel	joseph.slagel@systemsbiology.org
+2017	3	31	Bill Longabaugh	william.longabaugh@systemsbiology.org
+2017	4	7	Varsha Dhankani	varsha.dhankani@systemsbiology.org
+2017	4	14	Phyliss Lee	phyliss.lee@systemsbiology.org
+2017	4	21	Boris Aguilar	boris.aguilar@systemsbiology.org
+2017	4	28	Sheila Reynolds	sheila.reynolds@systemsbiology.org
+2017	5	5	David Gibbs	david.gibbs@systemsbiology.org
+2017	5	12	Vesteinn Thorsson	thorsson@systemsbiology.org
+2017	5	19	Suzanne Paquette	suzanne.paquette@systemsbiology.org
+2017	5	26	Bill Clifford	bill.clifford@systemsbiology.org
+2017	6	2	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
+2017	6	9	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
+2017	6	16	Michael Miller	michael.miller@systemsbiology.org
+2017	6	23	Kalle Leinonen	kalle.leinonen@systemsbiology.org
+2017	6	30	Roger Kramer	roger.kramer@systemsbiology.org
+2017	7	7	Nyasha Chambwe	nchambwe@systemsbiology.org
+2017	7	14	Joe Slagel	joseph.slagel@systemsbiology.org
+2017	7	21	Bill Longabaugh	william.longabaugh@systemsbiology.org
+2017	7	28	Varsha Dhankani	varsha.dhankani@systemsbiology.org
+2017	8	4	Phyliss Lee	phyliss.lee@systemsbiology.org
+2017	8	11	Boris Aguilar	boris.aguilar@systemsbiology.org
+2017	8	18	Sheila Reynolds	sheila.reynolds@systemsbiology.org
+2017	8	25	David Gibbs	david.gibbs@systemsbiology.org
+2017	9	1	Vesteinn Thorsson	thorsson@systemsbiology.org
+2017	9	8	Suzanne Paquette	suzanne.paquette@systemsbiology.org
+2017	9	15	Bill Clifford	bill.clifford@systemsbiology.org
+2017	9	22	Theo Knijnenburg	theo.knijnenburg@systemsbiology.org
+2017	9	29	Ilya Shmulevich	ilya.shmulevich@systemsbiology.org
+2017	10	6	Michael Miller	michael.miller@systemsbiology.org
+2017	10	13	Kalle Leinonen	kalle.leinonen@systemsbiology.org
+2017	10	20	Roger Kramer	roger.kramer@systemsbiology.org
+2017	10	27	Nyasha Chambwe	nchambwe@systemsbiology.org
+2017	11	3	Joe Slagel	joseph.slagel@systemsbiology.org
+2017	11	10	Bill Longabaugh	william.longabaugh@systemsbiology.org
+2017	11	17	Varsha Dhankani	varsha.dhankani@systemsbiology.org
+2017	12	1	Phyliss Lee	phyliss.lee@systemsbiology.org
+2017	12	8	Boris Aguilar	boris.aguilar@systemsbiology.org
+2017	12	15	Sheila Reynolds	sheila.reynolds@systemsbiology.org
+2017	12	22	David Gibbs	david.gibbs@systemsbiology.org
+2017	12	29	Vesteinn Thorsson	thorsson@systemsbiology.org
