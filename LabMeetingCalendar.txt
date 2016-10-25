@@ -1,10 +1,10 @@
 2016	11	3	David	Gibbs	david.gibbs@systemsbiology.org
-2016	11	10	Varsha	Dhankani	varsha.dhankani@systemsbiology.org
+2016	11	10	Roger	Kramer	roger.kramer@systemsbiology.org
 2016	11	17	Nyasha	Chambwe	nchambwe@systemsbiology.org
 2016	12	1	Bill	Longabaugh	william.longabaugh@systemsbiology.org
 2016	12	8	Boris	Aguilar	boris.aguilar@systemsbiology.org
 2016	12	15	Suzanne	Paquette	suzanne.paquette@systemsbiology.org
-2016	12	22	Roger	Kramer	roger.kramer@systemsbiology.org
+2016	12	22	David	Gibbs		dgibbs@systemsbiology.org
 2016	12	29	Phyliss	Lee	phyliss.lee@systemsbiology.org
 2017	1	7	Sheila	Reynolds	sheila.reynolds@systemsbiology.org
 2017	1	14	Bill	Clifford	bill.clifford@systemsbiology.org
