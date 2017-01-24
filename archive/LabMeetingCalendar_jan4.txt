@@ -1,3 +1,6 @@
+2017	1	5	David	Gibbs	dgibbs@systemsbiology.org
+2017	1	12	Phyliss	Lee	phyliss.lee@systemsbiology.org
+2017	1	19	Sheila	Reynolds	sheila.reynolds@systemsbiology.org
 2017	1	26	Bill	Clifford	bill.clifford@systemsbiology.org
 2017	2	2	Vesteinn	Thorsson	thorsson@systemsbiology.org
 2017	2	9	Kalle	Leinonen	kalle.leinonen@systemsbiology.org
